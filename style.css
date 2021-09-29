@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  width: 300px;
+  height: auto;
+  background-color: #F4DA73;
+  justify-content: center;
+  align-content: center;
+  padding : 10px;
+}
+
+p {
+  display: inner-flex;
+  font-size: 22px;
+  color: #282E3B;
+  margin-left : 10px;
+  font-family: "montserrat";
+}
+
+#authorID {
+  display: flex-end;
+  font-size: 13px;
+  color: #2e2e2e;
+  font-family: "Roboto";
+  margin-left : 8px;
+}
